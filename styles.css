@@ -1,0 +1,40 @@
+body {
+  font-family: Georgia, serif;
+  background: white;
+  color: #111;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 700px;
+  margin: 60px auto;
+  padding: 0 20px;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 5px;
+}
+
+.subtitle {
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-top: 40px;
+  font-size: 20px;
+}
+
+a {
+  color: #0645ad;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+hr {
+  margin: 30px 0;
+}
